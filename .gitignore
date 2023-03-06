@@ -1,0 +1,5 @@
+**/.env
+blobs
+**/*/.DS_Store
+.DS_Store
+**/*/dist
